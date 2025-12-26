@@ -29,21 +29,18 @@
 
 class About extends Me { 
   final Map<String, Set<String>> myTools = {
-    "ProgramingLanguages": {"Python", "Javascript", "Php"},
+    "ProgramingLanguages": {"Python", "Javascript", "Php","Kotlin","React native","Flutter"},
     "OtherLanguages": {"HTML", "CSS", "Json"},
-    "Database": {"Sqlite"},
-    "Editors": {"Vscode", "Xcode"},
-    "Platforms": {"Mac", "GNU/Linux", "Windows"},
+    "Database": {"Sqlite","Firebase"},
+    "Editors": {"Vscode", "Android studio"},
   };
 }
 ```
 <hr></hr>
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **WebDev**.  
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Web and Mobile Dev**.  
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**.  
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC building, Movies, or Fashion**.  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **build a digital solution**.  
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.
 
 <hr></hr>
