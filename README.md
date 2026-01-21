@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soukaina Jouah</h1>
+<h1 align="center">Hi I'm Soukaina Jouah</h1>
 <h3 align="center">Mobile & Web Development Student | Looking for Internship / Junior Opportunity</h3>
 
 <div align="center">
@@ -44,7 +44,10 @@
 ### 📫 Contact Me
 * 📧 Email: soukainajouah.11@gmail.com
 * 💼 GitHub: https://github.com/soukainaJOUAH
+* 
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
 
 ---
 
-⭐ *Feel free to check my projects and contact me for any opportunity.*
