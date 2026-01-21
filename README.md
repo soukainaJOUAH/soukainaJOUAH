@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soukaina Jouah</h1>
 <h3 align="center">Mobile & Web Development Student | Looking for Internship / Junior Opportunity</h3>
 
- <a href="https://github.com/sp-xd">
+<div align="center">
+  <a href="https://github.com/sp-xd">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
   </a>
+</div>
 ---
 
 ### 👩‍🎓 About Me
