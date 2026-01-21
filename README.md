@@ -35,16 +35,16 @@
 ---
 
 ### 📂 Featured Projects
-* 📱 **Jetpack Compose App** – Android app with navigation & UI
-* 🌐 **Web Project** – CRUD application with PHP & MySQL  
-👉 Check my repositories below 👇
+* 📱 **Dima Meak App** – Android and Ios app 
+* 🌐 **EliteShop** – site web e-commerce  
+
 
 ---
 
 ### 📫 Contact Me
 * 📧 Email: soukainajouah.11@gmail.com
 * 💼 GitHub: https://github.com/soukainaJOUAH
-* 
+  
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
