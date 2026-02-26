@@ -10,34 +10,44 @@
 
 ### 👩‍🎓 About Me
 * 🎓 Student in **Web & Mobile Development**
-* 📱 Interested in **Android and IOS Development**
-* 💡 Passionate about building simple and useful digital solutions
-* 🔎 Currently looking for an **Internship (Stage)** or **Junior Job**
+* 📱 Specialized in **Android & Cross-Platform Development (Flutter)**
+* 🤖 Interested in **AI-powered and Assistive Technologies**
+* 💡 I build practical apps that solve real-world problems
+* 🔎 Currently looking for an **Internship (Stage PFE)** or **Junior Opportunity**
 
 ---
 
 ### 🛠️ Tech Stack
 **Mobile**
-* Kotlin
-* Flutter
+* Kotlin (Jetpack Compose)
+* Flutter & Dart
+* Java
 
 **Web**
 * HTML, CSS, JavaScript
+* Bootstrap
 * PHP
-* React Native (basic)
 
-**Database & Tools**
+**Database & Backend**
+* Firebase
 * SQLite
-* Firebase (basic)
+
+**Tools**
 * Git & GitHub
-* android studio, VS Code, Figma
+* Android Studio
+* VS Code
+* Figma
 
 ---
 
 ### 📂 Featured Projects
-* 📱 **Dima Meak App** – Android and Ios app 
-* 🌐 **EliteShop** – site web e-commerce  
+* 📱 **Dima Meak App** – Smart mobile app connecting people in situation of disability with nearby associations and companions. Built with Flutter, Firebase, STT/TTS, and AI features for personalized assistance.
 
+* 📚 **Read With Me** – Mobile app for book lovers to exchange books, share experiences, and read more at lower cost. Built with Flutter & Firebase.
+
+* 🌐 **EliteShop** – E-commerce website for men, women, and kids clothing. Designed with a modern UI using HTML, CSS & Bootstrap.
+
+* ⏳ **YouTime** – Android To-Do List app that helps users manage tasks based on their available time. Built with Kotlin, Jetpack Compose & Java.
 
 ---
 
@@ -50,4 +60,3 @@
 </div>
 
 ---
-
