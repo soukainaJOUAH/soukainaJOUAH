@@ -53,7 +53,7 @@
 
 ### 📫 Contact Me
 * 📧 Email: soukainajouah.11@gmail.com
-* 💼 GitHub: https://github.com/soukainaJOUAH
+* 💼 Linkden: https://www.linkedin.com/in/soukaina-jouah/
   
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
